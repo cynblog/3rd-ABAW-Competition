@@ -1,0 +1,5 @@
+batch_size: 32
+epochs: 10
+
+model:
+    base_model: "resnet50"
